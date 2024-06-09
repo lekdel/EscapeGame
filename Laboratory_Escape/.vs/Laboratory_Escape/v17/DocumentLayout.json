@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|c:\\users\\alekd\\desktop\\escape_game\\laboratory_escape\\assets\\scripts\\environment\\elementvisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\elementvisible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\assets\\scripts\\environment\\objectgrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\objectgrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|c:\\users\\alekd\\desktop\\escape_game\\laboratory_escape\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\assets\\scripts\\environment\\switchblacklight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\switchblacklight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\assets\\scripts\\environment\\alarmbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\alarmbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\assets\\scripts\\environment\\zombiemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environment\\zombiemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E43FF9B-DDF0-4D3E-3A8F-DFDEFB70F184}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElementVisible.cs",
+              "DocumentMoniker": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\ElementVisible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\ElementVisible.cs",
+              "ToolTip": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\ElementVisible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\ElementVisible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:55:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectGrabbable.cs",
+              "DocumentMoniker": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\ObjectGrabbable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\ObjectGrabbable.cs",
+              "ToolTip": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\ObjectGrabbable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\ObjectGrabbable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:11:11.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwitchBlackLight.cs",
+              "DocumentMoniker": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\SwitchBlackLight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\SwitchBlackLight.cs",
+              "ToolTip": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\SwitchBlackLight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\SwitchBlackLight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:10:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlarmButton.cs",
+              "DocumentMoniker": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\AlarmButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\AlarmButton.cs",
+              "ToolTip": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\AlarmButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\AlarmButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:19:55.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:57:22.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZombieMovement.cs",
+              "DocumentMoniker": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\ZombieMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment\\ZombieMovement.cs",
+              "ToolTip": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Environment\\ZombieMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment\\ZombieMovement.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAABWwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:40:41.479Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\alekd\\Desktop\\escape_game\\Laboratory_Escape\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T17:41:11.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
